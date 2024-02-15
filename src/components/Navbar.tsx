@@ -27,7 +27,7 @@ function Navbar() {
             </div>
             <div className={'container mx-auto  justify-around px-4 flex '}>
 
-                <ul className={'flex uppercase'}>
+                <ul className={'flex uppercase text-[14px]'}>
                     <li className={'px-5'}><a><span>Haute culture</span></a></li>
                     <li className={'px-5'}><a><span>Fashion</span></a></li>
                     <li className={'px-5'}><a><span>High Jewellery</span></a></li>
